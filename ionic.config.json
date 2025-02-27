@@ -1,0 +1,7 @@
+{
+  "name": "Ionic Biometric Verification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
